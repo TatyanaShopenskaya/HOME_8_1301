@@ -1,0 +1,15 @@
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\8HOME_130123\8_Задача\bin\Debug\net6.0\8_Задача.exe
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\8HOME_130123\8_Задача\bin\Debug\net6.0\8_Задача.deps.json
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\8HOME_130123\8_Задача\bin\Debug\net6.0\8_Задача.runtimeconfig.json
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\8HOME_130123\8_Задача\bin\Debug\net6.0\8_Задача.dll
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\8HOME_130123\8_Задача\bin\Debug\net6.0\8_Задача.pdb
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\8HOME_130123\8_Задача\obj\Debug\net6.0\8_Задача.csproj.AssemblyReference.cache
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\8HOME_130123\8_Задача\obj\Debug\net6.0\8_Задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\8HOME_130123\8_Задача\obj\Debug\net6.0\8_Задача.AssemblyInfoInputs.cache
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\8HOME_130123\8_Задача\obj\Debug\net6.0\8_Задача.AssemblyInfo.cs
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\8HOME_130123\8_Задача\obj\Debug\net6.0\8_Задача.csproj.CoreCompileInputs.cache
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\8HOME_130123\8_Задача\obj\Debug\net6.0\8_Задача.dll
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\8HOME_130123\8_Задача\obj\Debug\net6.0\refint\8_Задача.dll
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\8HOME_130123\8_Задача\obj\Debug\net6.0\8_Задача.pdb
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\8HOME_130123\8_Задача\obj\Debug\net6.0\8_Задача.genruntimeconfig.cache
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\8HOME_130123\8_Задача\obj\Debug\net6.0\ref\8_Задача.dll
